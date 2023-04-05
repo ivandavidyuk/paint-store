@@ -1040,7 +1040,7 @@ body._lock {
 }
 
 .info__burger span {
-  height: 20%;
+  height: 15%;
   top: 50%;
   -webkit-transform: scale(1) translate(0px, -50%);
           transform: scale(1) translate(0px, -50%);
