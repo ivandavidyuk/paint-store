@@ -683,7 +683,7 @@ body._lock {
   font-weight: 700;
 }
 .address__photo img {
-  max-width: 376px;
+  max-width: 410px;
   margin-bottom: 80px;
 }
 
@@ -710,7 +710,7 @@ body._lock {
     max-height: 90px;
   }
   .address__photo img {
-    max-width: 388px;
+    max-width: 410px;
   }
 }
 @media (max-width: 940px) {
@@ -817,7 +817,7 @@ body._lock {
     max-width: 412px;
   }
   .address__photo img {
-    max-width: 412px;
+    max-width: 400px;
     -o-object-fit: contain;
        object-fit: contain;
   }
